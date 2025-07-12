@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\img\\2.jpg"
     },
     {
+      "Id": "C:\\Users\\ilayd\\Desktop\\aspnetcore-project\\basics\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ilayd\\Desktop\\aspnetcore-project\\basics\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
       "Id": "C:\\Users\\ilayd\\Desktop\\aspnetcore-project\\basics\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

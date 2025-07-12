@@ -4,17 +4,20 @@ using basics.Models;
 
 namespace basics.Controllers;
 
+// localhost              => home/index
+// localhost/home         => home/index
+// localhost/home/index   => home/index
 public class HomeController : Controller
 {
-    // Home/index.cshtml'i görüntüleme
     public IActionResult Index()
     {
-        return View();
+        return View(Repository.Courses);
     }
-    //Home/Contact.cshtml'i görüntüleme
+
     public IActionResult Contact()
     {
         return View();
     }
 
 }
+

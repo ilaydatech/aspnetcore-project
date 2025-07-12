@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENvdXJzZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ilayd/Desktop/aspnetcore-project/basics/Views/Course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ilayd/Desktop/aspnetcore-project/basics/Views/Course/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,8 +44,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ilayd/Desktop/aspnetcore-project/basics/Views/Shared/Header.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWRlci5jc2h0bWw=
+[C:/Users/ilayd/Desktop/aspnetcore-project/basics/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ilayd/Desktop/aspnetcore-project/basics/Views/Shared/_Navbar.cshtml]
